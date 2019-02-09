@@ -1,0 +1,24 @@
+h1
+   {
+    color: red;
+    font-family: Arial;
+    font-size: 56px;
+    background-color: lightgreen;
+   }
+p
+   {
+    font-family: Cañibri;
+    font-size: 28px;                   
+   }
+.main
+   {
+   color: yellow;
+   font-size: 72px;
+   }
+#spec
+   {
+       font-size: 82px;
+       color: cornflowerblue;
+   }
+
+
